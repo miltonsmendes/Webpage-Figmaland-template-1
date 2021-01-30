@@ -1,0 +1,253 @@
+body{
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #252B42;
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.1px;
+
+    /* light-text-color */
+
+    color: #FFFFFF;
+}
+
+.icons-style{
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: none;
+}
+
+
+
+#background-spotlight{
+    background: url(images/background-spotlight.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.button-spotlight1{
+    background: #FF7B47;
+    border-radius: 37px;
+    padding: 10px 35px;
+    border: none;
+    color: white;
+}
+
+.button-spotlight2{
+    border-radius: 37px;
+    padding: 10px 35px;
+    border: 1px solid;
+    color: white;
+}
+
+.container-appointment{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.form-field-appointment{
+    background: #F9F9F9;
+    border: 1px solid #BDBDBD;
+    border-radius: 5px;
+    color: #737373;
+    letter-spacing: 0.2px;
+}
+
+.button-appointment{
+    border: 1px solid #BDBDBD;
+    background: #FF7B47;
+    border-radius: 5px;
+    color: white;
+    align-self: stretch;
+    align-items: center;
+}
+
+.input-appointment{
+    letter-spacing: 0.2px;
+    color: #737373;
+    background-color: #F9F9F9;
+}
+
+.practice-cards{
+    border-radius: 10px;
+    color: white;
+    background-color: #D9EDFF;
+}
+
+.color-white{
+    color: white;
+}
+
+.top-card{
+    padding: 35px 20px;
+}
+
+.bottom-card{
+    background-color: #F9F9F9;
+    color: #737373;
+    border-radius: 10px;
+}
+
+.section-practice{
+    background: #252B42;
+}
+
+.section-practice a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #0D5C63;
+}
+
+.section-practice h6{
+    font-weight: 600;
+}
+
+.title-practice-items{
+    color: #252B42;
+    font-weight: bold;
+}
+
+
+.two-colors-background{
+    background: linear-gradient(180deg, #252B42 50%, #343a40 50%);
+}
+
+.names-depoiments{
+    color: #FF7B47;
+}
+
+.position-depoiments{
+    color: #252B42;
+}
+
+.names-team{
+    color: #252B42;
+}
+
+.position-team{
+    color: #737373;
+}
+
+.bottom-appointment-section{
+    background-image: url(images/background-make-appointment.png);
+    
+}
+
+.text-area{
+    width: 100%;
+}
+
+.button-bottom-appointment{
+    border: 1px solid #BDBDBD;
+    background: #FF7B47;
+    border-radius: 5px;
+    color: white;
+    align-self: stretch;
+    align-items: left;
+}
+
+.class-test{
+    width: 100%;
+}
+
+.title-contact-us{
+    color: #252B42;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #252B42;
+}
+
+.paragraph-contact-us{
+ 
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+
+.button-contact-us{
+    border: 1px solid #BDBDBD;
+    background: #FF7B47;
+    border-radius: 5px;
+    color: white;
+    align-self: stretch;
+    align-items: right;
+}
+
+#company-info a{
+    color: white;
+    margin: 3px 0px;
+    color: #BDBDBD;
+}
+
+#legal a{
+    color: white;
+    margin: 3px 0px;
+    color: #BDBDBD;
+}
+
+#features a{
+    color: white;
+    margin: 3px 0px;
+    color: #BDBDBD;
+}
+
+#resources a{
+    color: white;
+    margin: 3px 0px;
+    color: #BDBDBD;
+}
+
+.subscribe-append{
+    border: 1px solid #BDBDBD;
+    background: #FF7B47;
+    border-radius: 5px;
+    color: white;
+}
+
+.bottom-line{
+    border-bottom: 2px solid; 
+    border-bottom-color: #364067
+}
+
+.logo-bottom{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.1px;
+
+    /* light-text-color */
+
+    color: #FFFFFF;
+}
+
+.color-17213C{
+    background-color: #17213C;
+}
+
+.testzao {
+    width: auto;
+}
